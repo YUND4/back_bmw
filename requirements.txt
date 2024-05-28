@@ -3,3 +3,7 @@ djangorestframework
 Pillow
 django-cors-headers
 gunicorn
+django-storages
+boto3==1.26.165
+botocore==1.29.165
+python-dotenv
